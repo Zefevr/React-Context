@@ -20,7 +20,7 @@ class App extends React.Component {
         <div className="ui absolute menu inverted">
           <h1 className="header item">React Context Example</h1>
         </div>
-        <div style={{ padding: "3em" }}>
+        <div style={{ padding: "2em" }}>
           <LanguageSelector onLanguageColorChange={this.onLanguageColorChange} />
 
           <LanguageContext.Provider value={this.state.language}>
