@@ -2,6 +2,7 @@
 ![react icon](https://github.com/Zefevr/FinalEvaluation/blob/master/dev-icons/react.svg)
 ![html icon](https://github.com/Zefevr/FinalEvaluation/blob/master/dev-icons/html.svg)
 ![css icon](https://github.com/Zefevr/FinalEvaluation/blob/master/dev-icons/css.svg)
+![semantic ui icon](https://github.com/Zefevr/React-Context/blob/master/dev-icons/semantic ui.png)
 
 # React Context Example
 This repo contains a simple aplication using React Context. The objetive of this app is to get in touch with Context, learn how to get data in and out from the store and get and overview of when to use Context or Redux (or both).
